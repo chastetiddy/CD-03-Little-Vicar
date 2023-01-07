@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.2mm"
+   height="39.887501mm"
+   viewBox="0 0 154.2 39.887501"
+   version="1.1"
+   id="svg2421"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ThinSidePanelNeutrik.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2423"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.659624"
+     inkscape:cx="301.39708"
+     inkscape:cy="74.324575"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2418" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-36.263192,-76.357128)">
+    <path
+       d="m 58.613192,76.457128 v 6.85 h -22.25 V 116.14463 H 190.36319 V 83.307128 h -22.25 v -6.85 z"
+       fill="rgb(0,0,0)"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path471"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 101.36319,96.300878 a 12,12 0 1 0 24,0 12,12 0 1 0 -24,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path473"
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 121.28819,108.30088 a 1.575,1.5750006 0 1 0 3.15,0 1.575,1.5750006 0 1 0 -3.15,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path475"
+       style="fill:none;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 102.28819,84.300878 a 1.575,1.5750006 0 1 0 3.15,0 1.575,1.5750006 0 1 0 -3.15,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path477"
+       style="fill:none;stroke:#000000;stroke-width:0.15;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 161.26097,105.05113 a 2.1022222,2.1022231 0 1 0 4.20444,0 2.1022222,2.1022231 0 1 0 -4.20444,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path479"
+       style="fill:none;stroke:#000000;stroke-width:0.195556;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 161.26097,87.551128 a 2.1022222,2.1022231 0 1 0 4.20444,0 2.1022222,2.1022231 0 1 0 -4.20444,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path481"
+       style="fill:none;stroke:#000000;stroke-width:0.195556;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 61.26097,87.551128 a 2.1022222,2.1022231 0 1 0 4.204444,0 2.1022222,2.1022231 0 1 0 -4.204444,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path483"
+       style="fill:none;stroke:#000000;stroke-width:0.195556;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 61.26097,105.05113 a 2.1022222,2.1022231 0 1 0 4.204444,0 2.1022222,2.1022231 0 1 0 -4.204444,0 z"
+       fill="rgb(255,255,255)"
+       stroke="rgb(0,0,0)"
+       stroke-width="0.0010cm"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       id="path485"
+       style="fill:none;stroke:#000000;stroke-width:0.195556;stroke-dasharray:none;stroke-opacity:1" />
+  </g>
+</svg>

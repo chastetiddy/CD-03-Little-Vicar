@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300.20001mm"
+   height="200.2mm"
+   viewBox="0 0 300.20001 200.2"
+   version="1.1"
+   id="svg513"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="Bottom.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview515"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.93806818"
+     inkscape:cx="509.55784"
+     inkscape:cy="476.51121"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs510" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(76.202568,-22.59231)">
+    <g
+       id="g6952"
+       style="stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(10,0,0,10,-76.102568,22.69231)">
+      <path
+         d="m -15,-9.65 a 0.35,0.35 -180 0 1 0.35,-0.35 h 29.3 A 0.35,0.35 -90 0 1 15,-9.65 V 9.65 A 0.35,0.35 0 0 1 14.65,10 h -29.3 A 0.35,0.35 90 0 1 -15,9.65 Z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(0,0,0)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path191"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m -0.205,-7.5 a 0.205,0.205 0 1 1 0.41,0 0.205,0.205 0 1 1 -0.41,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path193"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m -0.205,7.5 a 0.205,0.205 0 1 1 0.41,0 0.205,0.205 0 1 1 -0.41,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path195"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 13.39,-8.6 a 0.21,0.21 0 1 1 0.42,0 0.21,0.21 0 1 1 -0.42,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path197"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m -13.81,-8.6 a 0.21,0.21 0 1 1 0.42,0 0.21,0.21 0 1 1 -0.42,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path199"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 13.39,8.6000003 a 0.21,0.21 0 1 1 0.42,0 0.21,0.21 0 1 1 -0.42,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path201"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m -13.81,8.6000003 a 0.21,0.21 0 1 1 0.42,0 0.21,0.21 0 1 1 -0.42,0 z"
+         transform="matrix(1,0,0,-1,15,10)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path203"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>

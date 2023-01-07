@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="154.2mm"
+   height="39.887501mm"
+   viewBox="0 0 154.2 39.887501"
+   version="1.1"
+   id="svg2421"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="ThinSidePanelButton.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2423"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.5877449"
+     inkscape:cx="269.34648"
+     inkscape:cy="144.14094"
+     inkscape:window-width="2560"
+     inkscape:window-height="1369"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g5401-9" />
+  <defs
+     id="defs2418" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-27.298253,-73.465204)">
+    <g
+       id="g5401-9"
+       style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(10,0,0,10,27.398253,73.565204)">
+      <path
+         d="M -1.025,1.299375 H -3.25 v -3.28375 h 15.4 v 3.28375 H 9.925 v 0.685 h -10.95 z"
+         transform="matrix(1,0,0,-1,3.25,1.984375)"
+         fill="rgb(0,0,0)"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path749-4"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 3.25,0 a 1.2,1.2 0 1 1 2.4,0 1.2,1.2 0 1 1 -2.4,0 z"
+         transform="matrix(1,0,0,-1,3.25,1.984375)"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path751-7"
+         style="fill:none;stroke:#000000;stroke-width:0.02;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 2.4897779,2.8594 a 0.21022222,0.21022231 0 1 0 0.4204444,0 0.21022222,0.21022231 0 1 0 -0.4204444,0 z"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path753-2"
+         style="fill:none;stroke:#000000;stroke-width:0.0195556;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 2.4897779,1.1094 a 0.21022222,0.21022231 0 1 0 0.4204444,0 0.21022222,0.21022231 0 1 0 -0.4204444,0 z"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path755-4"
+         style="fill:none;stroke:#000000;stroke-width:0.0195556;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 12.489778,1.1094 a 0.21022222,0.2102223 0 1 0 0.420444,0 0.21022222,0.2102223 0 1 0 -0.420444,0 z"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path757-7"
+         style="fill:none;stroke:#000000;stroke-width:0.0195556;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         d="m 12.489778,2.8594 a 0.21022222,0.2102223 0 1 0 0.420444,0 0.21022222,0.2102223 0 1 0 -0.420444,0 z"
+         fill="rgb(255,255,255)"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.0010cm"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="path759-4"
+         style="fill:none;stroke:#000000;stroke-width:0.0195556;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
