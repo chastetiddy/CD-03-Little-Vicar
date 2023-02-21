@@ -1,5 +1,4 @@
-# CD-03 Little Vicar
- 12" Arcade Stick Enclosure
+# CD-03 Little Vicar - 12" Arcade Stick Enclosure
 
 There are two versions: the thick is meant for arcade sticks and has more clearance, while the thin is meant for button only controllers. The thinner version has little clearance and will require bending the contacts on arcade buttons.
 
@@ -28,3 +27,14 @@ The button panel is meant for a standard 24mm arcade button.
 
 2x M4 x 31 mm female threaded hex standoffs (aluminum is cheapest, https://www.mcmaster.com/95947A065/) (also consider nylon https://www.mcmaster.com/92319A399/). These help prevent the top and bottom panels from bowing out if there's pressure from the wiring.
 
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
