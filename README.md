@@ -1,7 +1,7 @@
 # CD-03 Little Vicar - 12" Arcade Stick Enclosure
 
 
-[This readme is temporary, and I intend to create more detailed documentation in the future.]
+*This readme is temporary, and I intend to create more detailed documentation in the future.*
 
 
 There are two versions: the thick is meant for arcade sticks and has more clearance, while the thin is meant for button only controllers. The thinner version has little clearance and will require bending the contacts on arcade buttons.
