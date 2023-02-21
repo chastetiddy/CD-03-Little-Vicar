@@ -18,6 +18,8 @@ The Neutrik panel is meant for either a neutrik D connector, or can be used for 
 
 The button panel is meant for a standard 24mm arcade button.
 
+In my builds, the corner panels were printed with the black resin from JLCPCB. I have not tested with other materials.
+
 ## Assembly Hardware
 
 8x M4 x 8.2mm Heat Set Inserts (https://www.mcmaster.com/94459A170/) for the corners.
